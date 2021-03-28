@@ -38,7 +38,7 @@ the returned data, in case of statements indicate whether the statement was succ
 
 # Instructions on how to open the application in NetBeans 8.2
 
-    1. Unzip the ZIP file.
+    1. Unzip the ZIP file or clone this repository.
     2. In NetBeans, Choose File > New Project (Ctrl-Shift-N on Windows/Cmd-Shift-N on OS X).
     3. Choose Java Web > Web Application with Existing Sources. Click Next.
     4. In the Name and Location page of the wizard, follow these steps:
