@@ -2,7 +2,7 @@
 
 # Description
 
-Task is to develop our own relational database – this database can store anything we like. Then, to provide a web-service-based application that interacts with your database via JDBC.
+Task is to develop our own relational database – this database can store anything we like. Then, to provide a web-service-based application that interacts with the database via JDBC.
 
 # Database Details
 
