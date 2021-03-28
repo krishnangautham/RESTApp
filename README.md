@@ -48,3 +48,6 @@ the returned data, in case of statements indicate whether the statement was succ
     7. Verify all of the fields on the page, such as the values for the Web Pages Folder and Source Package Folders. (In WEB-INF content, browse to /RESTApp/web/WEB-INF)
     8. Click Finish.
     9. Optional: Click on Resolve the Hamcrest binaries Missing (in RESTApp) problem.
+
+
+More details can be found in Report.pdf.
