@@ -18,7 +18,7 @@ properties:
 # Web Service Details
 
 All database interactions is provided as web services. The web services  implement all
-interactions with the database by using JDBC. Your web service component has the following
+interactions with the database by using JDBC. Web service component has the following
 properties:
 
     • REST is used to provide web services.
