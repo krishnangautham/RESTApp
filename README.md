@@ -35,3 +35,16 @@ properties:
 Application that interfaces to web services. This application  automatically
 invoke each service at least once and display the outcome of each service: In case of queries display
 the returned data, in case of statements indicate whether the statement was successful or not.
+
+# Instructions on how to open the application in NetBeans 8.2
+
+    1. Unzip the ZIP file.
+    2. In NetBeans, Choose File > New Project (Ctrl-Shift-N on Windows/Cmd-Shift-N on OS X).
+    3. Choose Java Web > Web Application with Existing Sources. Click Next.
+    4. In the Name and Location page of the wizard, follow these steps:
+        • In the Location field, enter the folder that contains the web application's source root folders and web page folders (The extracted ZIP file) 
+    5. Click Next to advance to the Server and Settings page of the wizard.
+    6. Click Next to advance to the Existing Sources and Libraries page of the wizard.
+    7. Verify all of the fields on the page, such as the values for the Web Pages Folder and Source Package Folders. (In WEB-INF content, browse to /RESTApp/web/WEB-INF)
+    8. Click Finish.
+    9. Optional: Click on Resolve the Hamcrest binaries Missing (in RESTApp) problem.
