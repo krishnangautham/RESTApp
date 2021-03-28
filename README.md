@@ -1,4 +1,4 @@
-# RESTApp
+# REST App
 
 # Description
 
