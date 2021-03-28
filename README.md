@@ -8,11 +8,12 @@ Task is to develop our own relational database – this database can store anyth
 
 Database is implemented in the Derby Database (Oracle Java DB) and have the following
 properties:
-• At least one One-to-One relationship.
-• At least one One-to-Many relationship.
-• At least one Many-to-Many relationship.
-• Optimized to third normal form (3NF).
-• At least one column of the following types: INTEGER, VARCHAR, DATE, REAL.
+
+    • At least one One-to-One relationship.
+    • At least one One-to-Many relationship.
+    • At least one Many-to-Many relationship.
+    • Optimized to third normal form (3NF).
+    • At least one column of the following types: INTEGER, VARCHAR, DATE, REAL.
 
 # Web Service Details
 
@@ -20,14 +21,14 @@ All database interactions is provided as web services. The web services  impleme
 interactions with the database by using JDBC. Your web service component has the following
 properties:
 
-• REST is used to provide web services.
-  - A service that creates tables in Derby.
-  - Query that involves a table with a One-to-One relationship.
-  - Query that involves a table with a One-to-Many relationship.
-  - Query that involves a table with a Many-to-Many relationship.
-  - Adding an entry to a table with a One-to-One relationship.
-  - Adding an entry to a table with a One-to-Many relationship.
-  - Adding an entry to a table with a Many-to-Many relationship.
+    • REST is used to provide web services.
+      - A service that creates tables in Derby.
+      - Query that involves a table with a One-to-One relationship.
+      - Query that involves a table with a One-to-Many relationship.
+      - Query that involves a table with a Many-to-Many relationship.
+      - Adding an entry to a table with a One-to-One relationship.
+      - Adding an entry to a table with a One-to-Many relationship.
+      - Adding an entry to a table with a Many-to-Many relationship.
 
 # Application Details
 
